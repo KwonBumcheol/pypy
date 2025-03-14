@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8f7ab8-1396-476e-9ce5-a66002a97dc2" name="Changes" comment="25.03.14" />
+    <list default="true" id="c579ea61-0a83-45e5-981b-49f49ae4d6ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pypy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pypy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,10 +27,10 @@
     "accountId": "8a3e8c59-23eb-4bb8-84bf-47a59849e4e5"
   }
 }]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="2uIC8ZYezjHqje1h2LBkniGwrd2" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2uIGpD2Gy99BYuIYMKZ5VZmwO8C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,17 +38,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,57 +56,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f8f7ab8-1396-476e-9ce5-a66002a97dc2" name="Changes" comment="" />
-      <created>1741926542736</created>
+      <changelist id="c579ea61-0a83-45e5-981b-49f49ae4d6ee" name="Changes" comment="" />
+      <created>1741928855506</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741926542736</updated>
-      <workItem from="1741926543747" duration="700000" />
-      <workItem from="1741927251776" duration="903000" />
+      <updated>1741928855506</updated>
+      <workItem from="1741928856511" duration="111000" />
     </task>
-    <task id="LOCAL-00001" summary="25.03.14">
-      <option name="closed" value="true" />
-      <created>1741927867198</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1741927867198</updated>
-    </task>
-    <task id="LOCAL-00002" summary="25.03.14">
-      <option name="closed" value="true" />
-      <created>1741927926085</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1741927926085</updated>
-    </task>
-    <task id="LOCAL-00003" summary="25.03.14">
-      <option name="closed" value="true" />
-      <created>1741927990776</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1741927990777</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="25.03.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="25.03.14" />
   </component>
 </project>
